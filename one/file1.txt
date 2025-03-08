@@ -1,2 +1,4 @@
 This is some content on file1.
 There are some other content for file1.
+
+SO this is the third content added to file1.
