@@ -1,0 +1,1 @@
+I have solved bugs in file1 and file2.
