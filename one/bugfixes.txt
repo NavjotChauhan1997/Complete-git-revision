@@ -1,1 +1,2 @@
 I have solved bugs in file1 and file2.
+Solved another bugs in file1 and file2.

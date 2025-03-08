@@ -1,1 +1,2 @@
 I have found a bug in file1 and file2.
+Found a new bug in file1 and file2.

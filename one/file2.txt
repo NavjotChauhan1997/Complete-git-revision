@@ -2,3 +2,4 @@ This is some content on file2.
 Another content added to file2.
 
 This is another content added to file2.
+This is also 4th content added to file2.
